@@ -1,11 +1,13 @@
 about:
-  description: A distraction-free writing environment; draft anything, write now.
+  description:
+  |
+    A distraction-free writing environment; draft anything, write now.
   license: MIT
   homepage: 
   head: 0e95874
   archived: false
   latestVersion: v0.1.3
-  collectedAt: 2026-09-04T02:52:45Z
+  collectedAt: 2026-09-04T19:18:34Z
 timeline:
   created: 2025-12-10
   lastCommit: 2026-04-29
@@ -16,7 +18,7 @@ popularity:
   fork: 15
   release: 15
   contributor: 3
-  pullRequest: 3
+  pullRequest: 8
   issue: 24
 language:
   C: 1343969
@@ -28,10 +30,18 @@ language:
   CSS: 3820
   PowerShell: 3566
   Ruby: 959
-totalLine: 1451926
+totalBytes: 1451926
 recent:
   last30d:
     since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
     release: 0
     mergedPR: 0
     openPR: 0
@@ -62,3 +72,21 @@ recent:
     closedIssue: 12
     openIssue: 12
     commit: 37
+  last720d:
+    since: 2024-09-14
+    release: 15
+    mergedPR: 5
+    openPR: 2
+    closedIssue: 12
+    openIssue: 12
+    commit: 38
+total:
+  release: 15
+  mergedPR: 5
+  openPR: 2
+  closedIssue: 12
+  openIssue: 12
+  commit: 38
+---
+---
+
