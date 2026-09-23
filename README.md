@@ -4,7 +4,7 @@
 
 A distraction-free writing environment; draft anything, write now.
 
-[![x-cmd/install — dawn Code Quality Monitoring Repo Card](https://repo.x-cmd.io/dawn.svg)](https://x-cmd.com/install/dawn)
+[![x-cmd/install — dawn Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/dawn.svg)](https://x-cmd.com/install/dawn)
 
 ## Install
 
@@ -37,7 +37,7 @@ Total: **48,178** lines of code across **127** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 464 · **Forks**: 18 · **Open issues**: 24 · **Contributors**: 3
+- **Stars**: 464 · **Forks**: 19 · **Open issues**: 24 · **Contributors**: 3
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **48,178** lines of code across **127** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 3 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 0 | 1 | 5 | 1 | 2 | 1 |
-| 360d | 2025-09-27 | 15 | 5 | 5 | 12 | 12 | 37 |
-| last720d | 2024-10-02 | 15 | 5 | 5 | 12 | 12 | 38 |
+| 30d | 2026-08-24 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 3 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 0 | 1 | 5 | 1 | 2 | 1 |
+| 360d | 2025-09-28 | 15 | 5 | 5 | 12 | 12 | 37 |
+| last720d | 2024-10-03 | 15 | 5 | 5 | 12 | 12 | 38 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for dawn lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T03:03:59Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T03:04:45Z._
