@@ -14,12 +14,12 @@ x install dawn
 
 ## Code insight
 
-Total: **48,178** lines of code across **127** files in the top 5 languages.
+Total: **48,499** lines of code across **127** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 26,934 | 2,392 | 4,825 | 78 |
-| CHeader | 13,906 | 4,384 | 2,152 | 43 |
+| C | 27,246 | 2,399 | 4,870 | 78 |
+| CHeader | 13,915 | 4,392 | 2,155 | 43 |
 | Json | 5,218 | 0 | 0 | 1 |
 | Swift | 1,208 | 194 | 225 | 1 |
 | Sh | 273 | 43 | 80 | 4 |
@@ -32,27 +32,27 @@ Total: **48,178** lines of code across **127** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.1.3` (2026-01-01)
-- **Last commit**: 2026-04-29
+- **Last commit**: 2026-10-01
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 471 · **Forks**: 21 · **Open issues**: 24 · **Contributors**: 3
+- **Stars**: 471 · **Forks**: 21 · **Open issues**: 24 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 15 · **Merged PRs**: 5 · **Open PRs**: 5 · **Closed issues**: 12 · **Open issues**: 12 · **Commits**: 38
+- **Releases**: 15 · **Merged PRs**: 6 · **Open PRs**: 4 · **Closed issues**: 12 · **Open issues**: 12 · **Commits**: 39
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last60d | 2026-08-02 | 0 | 0 | 3 | 0 | 0 | 0 |
-| 90d | 2026-07-03 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last180d | 2026-04-04 | 0 | 1 | 5 | 0 | 1 | 1 |
-| 360d | 2025-10-06 | 15 | 5 | 5 | 12 | 12 | 37 |
-| last720d | 2024-10-11 | 15 | 5 | 5 | 12 | 12 | 38 |
+| 30d | 2026-09-02 | 0 | 1 | 2 | 0 | 0 | 1 |
+| last60d | 2026-08-03 | 0 | 1 | 2 | 0 | 0 | 1 |
+| 90d | 2026-07-04 | 0 | 1 | 2 | 0 | 0 | 1 |
+| last180d | 2026-04-05 | 0 | 2 | 4 | 0 | 1 | 2 |
+| 360d | 2025-10-07 | 15 | 6 | 4 | 12 | 12 | 38 |
+| last720d | 2024-10-12 | 15 | 6 | 4 | 12 | 12 | 39 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for dawn lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T03:51:26Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T03:49:20Z._
