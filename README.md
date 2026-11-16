@@ -47,12 +47,12 @@ Total: **48,499** lines of code across **127** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-16 | 0 | 1 | 2 | 0 | 0 | 1 |
-| 90d | 2026-08-17 | 0 | 1 | 2 | 0 | 0 | 1 |
-| last180d | 2026-05-19 | 0 | 1 | 2 | 0 | 0 | 1 |
-| 360d | 2025-11-20 | 15 | 6 | 4 | 12 | 12 | 38 |
-| last720d | 2024-11-25 | 15 | 6 | 4 | 12 | 12 | 39 |
+| 30d | 2026-10-17 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-17 | 0 | 1 | 2 | 0 | 0 | 1 |
+| 90d | 2026-08-18 | 0 | 1 | 2 | 0 | 0 | 1 |
+| last180d | 2026-05-20 | 0 | 1 | 2 | 0 | 0 | 1 |
+| 360d | 2025-11-21 | 15 | 6 | 4 | 12 | 12 | 38 |
+| last720d | 2024-11-26 | 15 | 6 | 4 | 12 | 12 | 39 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for dawn lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T04:35:00Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T04:32:26Z._
