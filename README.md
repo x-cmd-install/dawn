@@ -37,22 +37,22 @@ Total: **48,499** lines of code across **127** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 489 · **Forks**: 23 · **Open issues**: 24 · **Contributors**: 4
+- **Stars**: 490 · **Forks**: 23 · **Open issues**: 24 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 15 · **Merged PRs**: 6 · **Open PRs**: 4 · **Closed issues**: 12 · **Open issues**: 12 · **Commits**: 39
+- **Releases**: 15 · **Merged PRs**: 6 · **Open PRs**: 4 · **Closed issues**: 13 · **Open issues**: 11 · **Commits**: 39
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-18 | 0 | 1 | 0 | 0 | 0 | 1 |
-| 90d | 2026-08-19 | 0 | 1 | 2 | 0 | 0 | 1 |
-| last180d | 2026-05-21 | 0 | 1 | 2 | 0 | 0 | 1 |
-| 360d | 2025-11-22 | 15 | 6 | 4 | 12 | 12 | 38 |
-| last720d | 2024-11-27 | 15 | 6 | 4 | 12 | 12 | 39 |
+| 30d | 2026-10-19 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-19 | 0 | 1 | 0 | 0 | 0 | 1 |
+| 90d | 2026-08-20 | 0 | 1 | 2 | 0 | 0 | 1 |
+| last180d | 2026-05-22 | 0 | 1 | 2 | 0 | 0 | 1 |
+| 360d | 2025-11-23 | 15 | 6 | 4 | 13 | 11 | 38 |
+| last720d | 2024-11-28 | 15 | 6 | 4 | 13 | 11 | 39 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for dawn lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T06:17:37Z._
+_Snapshot: `data/card/261118.yml` · 2026-11-18T05:45:26Z._
